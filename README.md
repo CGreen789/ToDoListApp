@@ -1,3 +1,20 @@
+# Week 5 Hackathon - Create a To Do List App
+
+This week I worked with Rosie and Jordan in our first week learning everything React. We were tasked with creating a To Do List App using React: we were given a set of requirements and a component tree to follow.
+
+This week was a challenging week as React was a new concept to us all, but we embraced the challenge and worked as well as we could to create our working MVP on Friday.
+
+I enjoyed the process, and I'm going to add some more functionality to the app over time. I'd like to:
+[ ] Change the colour scheme
+[ ] Improve the CSS of the app
+[ ] Think about the UX and what features I could add...
+
+
+___
+## School of Code Instructions:
+
+
+
 <div align="center">
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
