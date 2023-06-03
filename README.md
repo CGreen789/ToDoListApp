@@ -4,6 +4,8 @@ This week I worked with Rosie and Jordan in our first week learning everything R
 
 This week was a challenging week as React was a new concept to us all, but we embraced the challenge and worked as well as we could to create our working MVP on Friday.
 
+This app is a simple to-do list app that allows you to add items to a list, mark them when complete and delete them from the list. 
+
 I enjoyed the process, and I'm going to add some more functionality to the app over time. I'd like to:
 [ ] Change the colour scheme
 [ ] Improve the CSS of the app
